@@ -1,10 +1,6 @@
 #include <iostream>
 #include "windows.h"
 using namespace std;
-
-int ifuckedyourmother;
-char x;
-
 class stand {
 	public:
 		int money;
